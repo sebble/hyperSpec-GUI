@@ -1,10 +1,11 @@
-Package: anRpackage
+Package: hyperSpec.GUI
 Type: Package
-Title: What the package does (short line)
-Version: 1.0
+Title: hyperSpec GUI
+Version: 0.0.1
 Date: 2011-06-28
-Author: Who wrote it
+Author: Claudia Beleites, Sebastian Mellor
 Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Description: A Graphical Interface for the hyperSpec package.
 License: What license is it under?
 LazyLoad: yes
+Depends: hyperSpec, cranvas
